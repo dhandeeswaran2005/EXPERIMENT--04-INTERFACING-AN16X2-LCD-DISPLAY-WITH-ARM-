@@ -266,7 +266,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots of proteus  :
-![Screenshot 2025-05-25 144603](https://github.com/user-attachments/assets/4712c74a-249d-4d28-bdcb-b52e5e29204c)
+![WhatsApp Image 2025-05-26 at 21 06 30_37a1ab89](https://github.com/user-attachments/assets/00d9caf4-c485-4a1a-a49f-01a649d4ed81)
 
  
  
